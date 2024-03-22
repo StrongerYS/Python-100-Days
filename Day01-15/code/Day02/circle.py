@@ -12,3 +12,4 @@ perimeter = 2 * math.pi * radius
 area = math.pi * radius * radius
 print('周长: %.2f' % perimeter)
 print('面积: %.2f' % area)
+# print(f"area: {area:.2f}, perimeter: {perimeter:.2f}") #使用format，括号中变量带冒号后指定输出格式

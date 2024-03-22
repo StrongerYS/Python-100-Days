@@ -8,7 +8,7 @@ Date: 2018-02-27
 
 str1 = 'hello, world!'
 print('字符串的长度是:', len(str1))
-print('单词首字母大写: ', str1.title())
+print('单词首字母大写: ', str1.title())     #每个单词的首字母都大写，非首字母转小写
 print('字符串变大写: ', str1.upper())
 # str1 = str1.upper()
 print('字符串是不是大写: ', str1.isupper())
